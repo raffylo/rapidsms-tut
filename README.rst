@@ -1,4 +1,8 @@
 
+RapidSMS is a free and open source framework for building interactive SMS applications, which integrates tightly with Django to provide a rich reporting interface. It was created by the Innovation Team at UNICEF, and is under development by the RapidSMS Team.
+
+I am not involved in any way in the above; please check out https://github.com/rapidsms/rapidsms for the original work.
+
 Rapidsms_Tut_Vote
 ========================
 
